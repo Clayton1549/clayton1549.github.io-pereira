@@ -1,0 +1,306 @@
+@charset "UTF-8";
+/* CSS Document */
+/*Reset de margin e padding e controle de caixa*/
+* {
+	box-sizing:border-box;
+	margin:0;
+	padding:0;}
+#certo{text-align: center;
+	
+	color:gray;
+	height:25px;
+	
+background-color:#7DDE0C ;}
+#fater{color:#EDF7F1;
+}
+#five{background-color:black;font-family:verdana,helvetica,arial,sans-serif}
+#zero{background-color: black}
+#wrapper{
+ width: 80%; 
+ margin:0 auto;
+ background-color: #ccc;
+ border:1px solid #000;
+}
+header{
+ 
+}
+#logo{background:url(como-agem-pessoas-populares-trabalho-noticias.jpg);width:100%;height: 700px;clear:both;background-size: cover;}
+
+#titulo{color:#0CDE18;
+ width: 50%;
+ height:468.5px;border: 2px solid black;
+ background-color:gray;
+ 
+ padding:50px 0 0 0;float:left;position: relative;
+ 
+}
+p{font-size: 15px;color:#C529C0;text-align: justify;}
+nav{
+ width: 100%;
+ height: 30px;
+ background-color: #555;
+ text-align: center;
+ clear: both;
+ border:1px solid #000;
+}
+.tag-video{float:right;position:relative;width:100%;height: 460px;background-color:#0F0E0E; }
+ul li{
+ display: inline-block;
+ padding: 2px 5px;
+}
+ul li a{
+ text-decoration: none;
+ color: #fff;
+ font-family:verdana,arial,helvetica;
+ font-weight: bold;
+}
+ul li a:{
+ text-decoration: none;
+ color: #000;
+ background-color: #fff;
+ font-family: verdana, arial;
+ font-style: oblique;
+ font-weight: bold;
+}
+aside{
+ width: 20%;
+ height: 300px;
+ border:1px solid #000;
+ float:left;
+}
+section{
+ width: 80%;
+ height: 300px;
+ border:1px solid #000;
+ float:right; 
+	}
+footer{
+ width: 100%;
+ height: 5px;
+ text-align: center;
+ padding-top: 5px;
+ clear: both;
+}
+footer h3{
+ font-size: 15px;
+} 
+.mero{text-align: center;color:#0DFF3F}
+
+	/*html hobe*/
+#less{font-family:verdana,arial,helveica,sans-serif;background-color:#111916;}
+
+#zeroum{color:#64CE49;font-size:25px;border:3px solid black;
+	 
+	margin:10px ;
+	width:48.5%;
+	height: 700px;background-color:gray;position:relative;float:right;}
+	
+#meio{color:#64CE49;font-size: 25px;
+	border:3px solid black; 
+	margin: 10px;
+	width:48.5%;
+	height: 700px;background-color: gray;position:relative;float: left; }
+	#quatro{color:#64CE49;font-size: 25px;
+	border:3px solid black; 
+	margin: 10px;
+	width:48.5%;
+	height: 700px;background-color: gray;position:relative;float: left; }
+	#outro{color: #64CE49;font-size: 25px;border:3px solid black;
+	 
+	margin: 10px ;position:relative;float:right;
+	width:48.5%;
+	height: 700px;background-color:gray;}
+	.beta{color: white;margin: 30px;font-size: 20px;}
+
+
+	/*html esperiencia*/
+	#new{ background-color:black;font-family:verdana,helvetica,arial,sans-serif}
+	#frasco{color:#3DC954;font-size: 25px;text-align: center;}
+	#izzi{color: white ;margin:30px 30px 30px 30px;font-size: 30px;}
+	#zero2 {border:2px solid #0E3F11;clear: both;background-color:gray;
+	width:98.4%;margin:10px;
+	height: 200px; color:#F7FAE6;font-size: 40px;}
+.z{color: #25EB79 ;font-size: 30px;margin:auto;}
+
+#dado{background-color: gray;width: 99%;margin:0 5px 0 10px;border:2px solid #135E13 ;}
+#hero{background-color:gray;width: 99%;margin:0 5px 0 10px;border:2px solid #135E13 ;}
+	
+
+
+	/*html galeria*/
+	#k{background-color:#191919;font-family:verdana,helvetica,arial,sans-serif}
+	#foto1{color:#3DC954; width: 500px;height: 200px;
+		background: url(images.jpg) no-repeat;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;
+  font-size: 30px;
+  background-size: 500px;float: left;margin:15px 15px  0 15px; 
+}
+#foto2{color:#3DC954;width: 500px;height: 200px;
+		background: url(como-conhecer-melhor-seu-local-de-trabalho-noticias.png) no-repeat;float: left;  
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px;   
+
+  font-size: 30px;
+  background-size: 500px;}
+
+#foto3{color:#3DC954; width: 500px;height: 200px;
+		background: url(resultado-trabalhando-economia-de-negocios-corporativos_1150-1385.jpg) no-repeat;float: left; 
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+  #foto4{color:#3DC954; width: 500px;height: 200px;
+		background: url(417967169.jpg) no-repeat;float: left;  
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto5{color:#3DC954; width: 500px;height: 200px;
+		background: url(haddadonibus_1.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+  #foto6{color:#3DC954; width: 500px;height: 200px;
+		background: url(ressignificação-e-trabalho.jpg) no-repeat;float: left; 
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+    #foto7{color:#3DC954; width: 500px;height: 200px;
+		background: url(entrevista-3.png) no-repeat;float: left; 
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ 
+  font-size: 30px;
+  background-size: 500px;}
+   
+    #foto8{color:#3DC954;width: 500px;height: 200px;
+		background: url(carreira-procurando-emprego.jpg) no-repeat;float: left; 
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px; }
+    #foto9{ color:#3DC954;width: 500px;height: 200px;
+		background: url(Corbis-42-64544193.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ 
+  font-size: 30px;
+  background-size: 500px;}
+  #foto10{color:#3DC954; width: 500px;height: 200px;
+		background: url(sistemas-para-internet.jpg) no-repeat;float:left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+
+  font-size: 30px;
+  background-size: 500px;}
+   #foto11{color:#3DC954; width: 500px;height: 200px;
+		background: url(pousada-em-maresias-ferias.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+
+  font-size: 30px;
+  background-size: 500px;}
+   #foto12{ color:#3DC954;width: 500px;height: 200px;
+		background: url(esforço1.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ font-size: 30px;
+  background-size: 500px;}
+   #foto13{color:#3DC954; width: 500px;height: 200px;
+		background: url(7963e21ac9224ed86b0ea6a11fdb2239.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto14{ color:#3DC954;width: 500px;height: 200px;
+		background: url(compromisso-e-comprometimento-min.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto15{color:#3DC954; width: 500px;height: 200px;
+		background: url(FRASES-1.JPG) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto16{color:#3DC954; width: 500px;height: 200px;
+		background: url(forca_de_vontade13A.jpg) no-repeat;float:left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto17{color:#3DC954; width: 500px;height: 200px;
+		background: url(1-companheirismo.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto18{color:#3DC954; width: 500px;height: 200px;
+		background: url(shutterstock_132927353-Copia.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+
+  font-size: 30px;
+  background-size: 500px;}
+   #foto19{ color:#3DC954;width: 500px;height: 200px;
+		background: url(nao-ha-legado-mais-rico-que-a-honestidade.png) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+   #foto20{color:#3DC954; width: 500px;height: 200px;
+		background:url(superação.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+  font-size: 30px;
+  background-size: 500px;}
+  #foto21{color:#3DC954;
+   width: 500px;height: 200px;
+		background: url(coragem-que-minha-coragem-seja-maior-que-meu-medo-e-minha-forc3a7a-seja-tc3a3o-grande-quanto-a-minha-fc3a9.jpg) no-repeat;float: left;
+   border: solid 2px #00C600;
+  text-shadow: white 0px 0px 2px;margin:15px 15px  0 15px; 
+ 
+  font-size: 30px;
+  background-size: 500px; }
+  .consolo{color:#00C600;font-size:25px;background-color:#8E8E8E;width: 50%;border: 2px solid #00C600;}
+
+
+  /* html contato*/
+  #f3{color:#D6D0C3;background-color:#292825;font-family:verdana,helvetica,arial,sans-serif}
+  #f9{color:#5EC93D;margin: 40px 40px 40px 40px;font-size: 25px;}
+  #f6{margin:20px 20px 20px 20px;}
+  #f7{margin:20px 20px 20px 20px; }
+  #f8{margin:20px 20px 20px 20px; }
+ #f15{color:#5EC93D;margin: 40px 40px 40px 40px;font-size: 25px;}
+  #f14{color:#5EC93D;margin: 40px 40px 40px 40px;font-size: 25px; }
+#fundo{background-color: gray;width: 99%;margin:0 5px 0 10px;border:2px solid #135E13 ;}
+  .top{color:red;font-size: 25px;background-color: #00C600;border: 2px solid black;margin-left: 10px;position: relative;float: left;}
+
+#p{text-align: center;}
+
+
+
+
+
+
+
+  
+
+  
+
+  
+
+  
+
+  
+
+
+
+ 
+ 
